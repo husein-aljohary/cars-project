@@ -57,4 +57,5 @@ The project involved extensive data cleaning and analysis, resulting in cleaned 
 - Prioritize models like Ford F150, Chevrolet Silverado 1500, and Ram 1500 based on their prevalence.
 - Focus on improving the data collection process to reduce the occurrence of missing values.
 
-## [Tableau](https://public.tableau.com/app/profile/husein.aljohary8537/viz/carsproject_17166522993620/Dashboard1)
+## Data Visualization
+# [Tableau](https://public.tableau.com/app/profile/husein.aljohary8537/viz/carsproject_17166522993620/Dashboard1)
