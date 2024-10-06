@@ -14,8 +14,6 @@ This project focuses on cleaning and analyzing a dataset of cars. The primary go
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Conclusion](#conclusion)
 - [Recommendations](#recommendations)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
